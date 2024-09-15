@@ -34,6 +34,11 @@ The dataset (`dataset_transactions.csv`) includes the following columns:
 7. **Highest Month-over-Month Growth in January 2014**  
    We identified the card type and expense type combination that saw the highest month-over-month spending growth in January 2014.
 
+8. During weekends which city has highest total spend to total no of transaction's ratio?
+
+9. Which city took least number of days to reach its 500th transaction after first transaction in that city?
+
+
 ### Technologies Used
 - **Python**: To manipulate and analyze the dataset using libraries like `pandas` and `sqlite3`.
 - **SQL**: For querying and aggregating the dataset within a local SQLite database.
