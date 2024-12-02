@@ -53,4 +53,4 @@ This project demonstrates how SQL can be effectively used within Python for data
 
 ---
 
-Feel free to explore the code and dataset to dive deeper into credit card transaction analytics!
+Feel free to explore the code and dataset to dive deeper into credit card transaction analytics!!
